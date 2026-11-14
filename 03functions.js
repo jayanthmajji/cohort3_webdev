@@ -1,4 +1,4 @@
-// functions are the building blocks of JavaScript. A function is a set of statements that performs a task or calculates a value. Functions are executed when they are called (invoked).
+// functions are the building blocks of JavaScript. A function is a set of statements that performs a task or calculates a value. Functions are exec uted when they are called (invoked).
 
 function greet() {
   // function declaration
